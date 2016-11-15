@@ -31,7 +31,7 @@
 		<!-- 用户名-->
 		<property name="user" value="root"/>
 		<!-- 密码-->
-		<property name="password" value="102030102030guij"/>
+		<property name="password" value="123456"/>
 		<!-- 连接池最小维持连接数-->
 		<property name="minPoolSize" value="10"/>
 		<!-- 连接池最大维持连接数-->
